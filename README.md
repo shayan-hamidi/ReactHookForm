@@ -4,3 +4,5 @@ form component using react hook form(formStatus,register,handleSubmit) with patt
 npx browser-sync start --server --files "./*.html" --no-open --no-notify --directory
 
 Go to localhost:3000
+
+See the Console
